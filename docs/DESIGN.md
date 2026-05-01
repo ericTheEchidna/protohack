@@ -9,6 +9,24 @@ and event vocabulary, see `PROTOCOL.md`.
 
 ---
 
+## The name
+
+The exact origin of the name has been lost, but several readings all fit
+and were probably all in play at once:
+
+- **protocol + hack** — a protocol for hack-style (roguelike) games, the
+  most literal reading
+- **proto + hack** — something foundational that underlies hack-style
+  games; *proto* in the sense of "first" or "base layer"
+- **prototype + hack** — a prototype protocol, a sketch of what a
+  hack-style game infrastructure could be before it becomes a real product
+
+None of these are wrong. The name was coined during early design and the
+specific intent was not written down in time. If you remember, update this
+section.
+
+---
+
 ## What Protohack is
 
 Protohack is a **protocol specification**. It defines a contract between two
